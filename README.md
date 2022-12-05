@@ -12,8 +12,7 @@
 - :seedling: Exploring Technical Content Writing.
 
 
-📫 How to reach me:
-## [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminmeldal/)
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminmeldal/)
 
 ## 🌱 I’m currently learning 
 
