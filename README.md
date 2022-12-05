@@ -1,11 +1,16 @@
-### <h1 align="center">Hi, I'm Benjamin👋</h1>
+<h1 align="center">Hi, I'm Benjamin👋</h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-## 📫 How to reach me:
+---
 
+### 👨‍💻 About Me :
+
+I am a Front-end Developer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Norway.
+
+📫 How to reach me:
 ## [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/benjaminmeldal/)
 
 ## 🌱 I’m currently learning 
